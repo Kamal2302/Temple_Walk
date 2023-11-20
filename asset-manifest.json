@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Temple_Walk/static/css/main.6c253430.css",
+    "main.js": "/Temple_Walk/static/js/main.c26d0a75.js",
+    "static/js/787.48d9d282.chunk.js": "/Temple_Walk/static/js/787.48d9d282.chunk.js",
+    "index.html": "/Temple_Walk/index.html",
+    "main.6c253430.css.map": "/Temple_Walk/static/css/main.6c253430.css.map",
+    "main.c26d0a75.js.map": "/Temple_Walk/static/js/main.c26d0a75.js.map",
+    "787.48d9d282.chunk.js.map": "/Temple_Walk/static/js/787.48d9d282.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c253430.css",
+    "static/js/main.c26d0a75.js"
+  ]
+}
